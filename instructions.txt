@@ -1,2 +1,2 @@
-Instructions for deoloying this site.
+Instructions for deoloying this site to the server
 ----------------------------------------------------
