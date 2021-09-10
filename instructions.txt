@@ -1,2 +1,5 @@
 Instructions for deoloying this site to the server
 ----------------------------------------------------
+
+Troubleshooting
+----------------------------------------------------
