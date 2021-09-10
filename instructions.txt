@@ -2,5 +2,3 @@ Instructions for deoloying this site to the server
 ----------------------------------------------------
 
 
-Installations 
-----------------------------------------
